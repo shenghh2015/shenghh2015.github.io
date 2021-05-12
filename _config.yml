@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shenghua He" #"Your Sidebar Name"
-  avatar           : "./images/my_photo.JPG"  #"profile.png"
+  avatar           : "my_photo.JPG"  #"profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "shenghh2015" #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
