@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Shenghua He" #"Your Sidebar Name"
+  avatar           : "./images/my_photo.JPG"  #"profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
