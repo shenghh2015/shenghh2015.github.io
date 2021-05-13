@@ -15,7 +15,7 @@ Link
 ======
 [Download my CV here](https://shenghh2015.github.io/files/shenghua_cv_2021.pdf)
 
-<---
+<!---
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
