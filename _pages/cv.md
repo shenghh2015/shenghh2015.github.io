@@ -7,8 +7,15 @@ redirect_from:
   - /resume
 ---
 
+<---
 {% include base_path %}
+--->
 
+Link
+======
+[Download my CV here](https://xuxiaojian.github.io/files/xiaojianxu.pdf)
+
+<---
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -57,3 +64,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+--->
