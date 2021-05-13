@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "593 Computational Methods for Inverse Problems"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+type: "Graduate level course"
+permalink: /teaching/2018-spring-teaching-1
+venue: ""
+date: 2018-01-15
 location: "City, Country"
 ---
 
