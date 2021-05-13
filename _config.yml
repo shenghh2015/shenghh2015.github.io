@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : "https://shenghh2015.github.io/shenghuahe.github.io" #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Shenghua He" #"Your Name"
+description              : &description "A life-time learner." #"personal description"
+url                      : "https://shenghh2015.github.io" #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shenghh2015/shenghuahe.github.io" #"academicpages/academicpages.github.io"
+repository               : "https://github.com/shenghh2015" #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shenghua He" #"Your Sidebar Name"
   avatar           : "my_photo.JPG"  #"profile.png"
-  bio              : "I am PhD candidate in Computer Science at WashU." #"Your biography for the left-hand sidebar"
+  bio              : "PhD candidate in Computer Science at WashU." #"Your biography for the left-hand sidebar"
   location         : "Urbana, IL"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
