@@ -16,5 +16,5 @@ Since April 2019, I have been a visiting scholar at University of Illinois at Ur
 where I am co-advised by Dr. [Mark Anastasio](https://bioengineering.illinois.edu/people/maa) from Computational Imaging Science Laboratory from 
 and Dr. [Hua Li](https://bioengineering.illinois.edu/people/huali19) from Medical Imaging and Bioinformatics Lab.
 
-Before joining WashU, I obtained my master's degree in Electronics and Communications Engineering in April 2015 at [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn), 
-where I was advised by Prof. [Xiangming Wen](http://www.opensource5g.org/people-2/xiangmingwen). I received my bachelor's degree in Electronic Science and Technology at [Wuhan University of Technology](http://english.whut.edu.cn) in June 2012.
+Before joining WashU, I obtained my master's degree in Electronics and Communications Engineering at [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn), 
+where I was advised by Prof. [Xiangming Wen](http://www.opensource5g.org/people-2/xiangmingwen), in April 2015. Before that, I received my bachelor's degree in Electronic Science and Technology at [Wuhan University of Technology](http://english.whut.edu.cn) in June 2012.
