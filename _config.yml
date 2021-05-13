@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shenghua He / Ph.D. Candidate"
+title                    : "Shenghua He"
 title_separator          : "-"
 name                     : &name "Shenghua He" #"Your Name"
 description              : &description "A life-time learner." #"personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shenghua He" #"Your Sidebar Name"
-  avatar           : "images/profile.png"  #"profile.png"
+  avatar           : "./images/profile.png"  #"profile.png"
   bio              : "PhD candidate in Computer Science at WashU." #"Your biography for the left-hand sidebar"
   location         : "Urbana, IL"
   employer         :
