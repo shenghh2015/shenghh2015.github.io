@@ -3,7 +3,7 @@ title: "593 Computational Methods for Inverse Problems"
 collection: teaching
 type: "Graduate level course"
 permalink: /teaching/2018-spring-teaching-1
-venue: ""
+venue: "Inverse problem"
 date: 2018-01-15
 location: "City, Country"
 ---
