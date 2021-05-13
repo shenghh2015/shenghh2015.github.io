@@ -13,7 +13,7 @@ Hi, there!
 I am a 5-th year PhD student from [Department of Computer Science & Engineering](https://cse.wustl.edu) at Washington University in St. Louis (WashU). 
 My research interests include medical image analysis, deep learning and machine learning. 
 Since April 2019, I have been a visiting scholar at University of Illinois at Urbana-Champaign (UIUC), 
-where I was co-advised by Dr. [Mark Anastasio](https://bioengineering.illinois.edu/people/maa) Computational Imaging Science Laboratory from 
+where I was co-advised by [Dr. Mark Anastasio](https://bioengineering.illinois.edu/people/maa) Computational Imaging Science Laboratory from 
 and [Dr. Hua Li](https://bioengineering.illinois.edu/people/huali19) from Medical Imaging and Bioinformatics Lab.
 
 Before joining WashU, I obtained my master's degree in Electronics and Communications Engineering at [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn) in April 2015, 
