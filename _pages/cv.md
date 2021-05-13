@@ -13,7 +13,7 @@ redirect_from:
 
 Link
 ======
-[Download my CV here](https://xuxiaojian.github.io/files/xiaojianxu.pdf)
+[Download my CV here](https://shenghh2015.git.io/files/shenghua_cv_2021.pdf)
 
 <---
 Education
