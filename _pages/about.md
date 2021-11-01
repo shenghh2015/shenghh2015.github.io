@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, there!
 
-I am a 5-th year PhD student from [Department of Computer Science & Engineering](https://cse.wustl.edu) at Washington University in St. Louis (WashU). 
+I am a final year PhD student from [Department of Computer Science & Engineering](https://cse.wustl.edu) at Washington University in St. Louis (WashU). 
 My research interests include medical image analysis, deep learning and machine learning. 
 Since April 2019, I have been a visiting scholar at University of Illinois at Urbana-Champaign (UIUC), 
 where I am co-advised by Dr. [Mark Anastasio](https://bioengineering.illinois.edu/people/maa) from Computational Imaging Science Laboratory from 
