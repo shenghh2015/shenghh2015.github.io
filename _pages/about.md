@@ -10,8 +10,9 @@ redirect_from:
 
 Hi, there!
 
-I am a final year PhD student from [Department of Computer Science & Engineering](https://cse.wustl.edu) at Washington University in St. Louis (WashU). 
-My research interests include medical image analysis, deep learning and machine learning. 
+I am a senior research scientist at PAII Inc., CA, working on 3D reconstruction and video understanding.
+I obtained my Ph.D. degree from [Department of Computer Science & Engineering](https://cse.wustl.edu) at Washington University in St. Louis (WashU) in Dec. 2021.
+In my Ph.D. studies, my research interests include medical image analysis, deep learning and machine learning. 
 Since April 2019, I have been a visiting scholar at University of Illinois at Urbana-Champaign (UIUC), 
 where I am co-advised by Dr. [Mark Anastasio](https://bioengineering.illinois.edu/people/maa) from Computational Imaging Science Laboratory from 
 and Dr. [Hua Li](https://bioengineering.illinois.edu/people/huali19) from Medical Imaging and Bioinformatics Lab.
