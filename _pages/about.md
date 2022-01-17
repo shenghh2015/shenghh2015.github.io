@@ -14,7 +14,7 @@ I am a senior research scientist at PAII Inc., CA, working on 3D reconstruction 
 I obtained my Ph.D. degree from [Department of Computer Science & Engineering](https://cse.wustl.edu) at Washington University in St. Louis (WashU) in Dec. 2021.
 In my Ph.D. studies, I have worked on medical image analysis, deep learning and machine learning. 
 Since April 2019, I have been a visiting scholar at University of Illinois at Urbana-Champaign (UIUC), 
-where I am co-advised by Dr. [Mark Anastasio](https://bioengineering.illinois.edu/people/maa) from Computational Imaging Science Laboratory from 
+where I am co-advised by Dr. [Mark Anastasio](https://bioengineering.illinois.edu/people/maa) from Computational Imaging Science Laboratory 
 and Dr. [Hua Li](https://bioengineering.illinois.edu/people/huali19) from Medical Imaging and Bioinformatics Lab.
 
 Before joining WashU, I obtained my master's degree in Electronics and Communications Engineering at [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn), 
