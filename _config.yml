@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shenghua He" #"Your Sidebar Name"
   avatar           : "profile1.JPG"  #"profile.png"
-  bio              : "PhD candidate in Computer Science at WashU." #"Your biography for the left-hand sidebar"
+  bio              : "PhD in Computer Science." #"Your biography for the left-hand sidebar"
   location         : "Urbana, IL"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
