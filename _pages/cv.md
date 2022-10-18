@@ -11,7 +11,7 @@ redirect_from:
 
 Link
 ======
-[Download my CV here](https://shenghh2015.github.io/files/Shenghua_CV_Mar2022.pdf)
+[Download my CV here](https://shenghh2015.github.io/files/Shenghua_CV_Oct2022.pdf)
 
 <!---
 Education
