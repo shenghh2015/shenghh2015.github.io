@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, there!
 
-I am a senior research scientist at PAII Inc., CA, working on computer vision and deep learning.
+I am a senior research scientist at PAII Inc., CA, working on computer vision and deep learning. 
 I obtained my Ph.D. degree from [Department of Computer Science & Engineering](https://cse.wustl.edu) at Washington University in St. Louis (WashU) in Dec. 2021.
 In my Ph.D. studies, I have worked on medical image analysis, deep learning and machine learning. 
 Since April 2019, I have been a visiting scholar at University of Illinois at Urbana-Champaign (UIUC), 
