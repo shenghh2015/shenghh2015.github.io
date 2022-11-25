@@ -23,7 +23,6 @@ toc: true
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-
 <br>
 
 
