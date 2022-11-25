@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Link
+======
+[Download my CV here](https://shenghh2015.github.io/files/Resume_SH_2022.pdf)
+
+<!---
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -57,3 +62,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+--->
