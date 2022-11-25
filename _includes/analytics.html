@@ -8,5 +8,6 @@
 {% when "custom" %}
   {% include /analytics-providers/custom.html %}
 {% endcase %}
-
+{% when "google-gtag" %}
+  {% include /analytics-providers/google-gtag.html %}
 {% endif %}
