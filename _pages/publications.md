@@ -23,7 +23,6 @@ toc: true
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-
 <br>
 
 
@@ -33,10 +32,3 @@ toc: true
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-
-<!-- <h2>Academic</h2>
-{% for post in site.publications reversed %}
-  {% if post.pubtype == 'academic' %}
-      {% include archive-single.html %}
-  {% endif %}
-{% endfor %} -->

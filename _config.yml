@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lei Yu's Homepage"
+title                    : "Shenghua He's Homepage"
 title_separator          : "-"
-name                     : &name "Lei Yu"
-description              : &description "Lei Yu's Homepage"
-url                      : https://yuleihit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Shenghua He" #"Your Name"
+description              : &description "A life-time learner." #"personal description"
+url                      : "https://shenghh2015.github.io" #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yuleihit/yuleihit.github.io"
+repository               : "https://github.com/shenghh2015" #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -73,23 +73,22 @@ social:
 
 # Analytics
 analytics:
-  #provider               :  "custom" #"google-universal" # false (default), "google", "google-universal", "custom"
-  provider                : "google-gtag"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  "G-QCF1RE11EQ"
+    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Lei Yu"
-  avatar           : "profile.png"
-  bio              : "Staff Research Scientist in IBM Research, IBM Thomas J Watson Research Center"
-  location         : "Yorktown Heights, NY"
+  name             : "Shenghua He" #"Your Sidebar Name"
+  avatar           : "profile1.JPG"  #"profile.png"
+  bio              : "Senior research scientist, PAII Inc., CA, United States" #"Your biography for the left-hand sidebar"
+  location         : "Palo Alto, CA"
   employer         :
-# pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=zI4I51UAAAAJ&hl=en"
-  email            : Lei.Yu1@ibm.com
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    :  "https://scholar.google.com/citations?hl=en&user=SOWPzHAAAAAJ&view_op=list_works&sortby=pubdate" #"http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  #"https://www.researchgate.net/profile/Shenghua-He" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-#  github           : "academicpages"
+  github           : "shenghh2015" #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-#  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/shenghua-he"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-#  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -228,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _patents
+  # _portfolio
   - scope:
       path: ""
-      type: patents
+      type: portfolio
     values:
       layout: single
       author_profile: true
