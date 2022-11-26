@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shenghua He" #"Your Sidebar Name"
   avatar           : "profile_photo_v3.JPG"  #"profile.png"
-  bio              : "Senior research scientist, PAII Inc., CA, United States" #"Your biography for the left-hand sidebar"
+  bio              : "Senior research scientist in PAII Inc., CA, US" #"Your biography for the left-hand sidebar"
   location         : "Palo Alto, CA"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
