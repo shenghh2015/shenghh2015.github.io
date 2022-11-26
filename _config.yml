@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shenghua He's Homepage"
+title                    : "Shenghua He"
 title_separator          : "-"
 name                     : &name "Shenghua He" #"Your Name"
 description              : &description "A life-time learner." #"personal description"
