@@ -13,7 +13,7 @@ CV is configured in _data/navigation.yml file.
 Pulications are configured in _pages/publications.html
 -->
 
-I am a senior research scientist at [PAII Inc.](https://www.linkedin.com/company/paii-inc/about) in Palo Alto, CA, where I work on reinforcement learning from human feedback **RLHF** for training large language models (**LLMs**). Previously, I worked on **3D computer vision, and deep learning**.
+I am a senior research scientist at [PAII Inc.](https://www.linkedin.com/company/paii-inc/about) in Palo Alto, CA, where I work on reinforcement learning from human feedback (**RLHF**) for training large language models (**LLMs**). Previously, I worked on **3D computer vision, and deep learning**.
 
 I obtained my Ph.D. in Computer Science from [WashU](https://wustl.edu) co-advised by Dr. [Mark Anastasio](https://anastasio.bioengineering.illinois.edu/lab-members) and Dr. [Hua Li](https://huali.bioengineering.illinois.edu/lab-members), and worked on **computer vision in biomedical image analsysis**. I has also spent time in [UIUC](https://illinois.edu) as a visiting Ph.D. student.
 
